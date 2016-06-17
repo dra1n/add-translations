@@ -1,8 +1,8 @@
 ### Usage:
 
 ```
-git clone
-cd add-translation
+git clone git@github.com:dra1n/add-translations.git
+cd add-translations
 npm install -g
 ```
 
