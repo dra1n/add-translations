@@ -1,15 +1,15 @@
 #!/usr/bin/env node
 
-const fs = require('fs');
-const addTranslation = require('../index');
+var fs = require('fs');
+var addTranslation = require('../index');
 
 if (process.argv.length <= 3) {
   console.log("Usage: add-translations <translations.csv> <translations.xliff> >> <newtranslations.xliff>");
   process.exit(-1);
 }
 
-const csvFilePath = process.argv[2];
-const xliffFilePath = process.argv[3];
+var csvFilePath = process.argv[2];
+var xliffFilePath = process.argv[3];
 
 addTranslation(csvFilePath, xliffFilePath, function(xml) {
   fs.writeFile(xliffFilePath+'.new', xml, 'utf8');
