@@ -8,6 +8,9 @@
   },
   "author": "dra1n",
   "license": "ISC",
+  "bin": {
+    "add-translation": "./index.js"
+  },
   "dependencies": {
     "fast-csv": "^2.0.0",
     "lorgnette": "^1.1.0",
