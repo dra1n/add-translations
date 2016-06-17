@@ -1,6 +1,7 @@
 const fs = require('fs');
 const csv = require('fast-csv');
 const xml2js = require('xml2js');
+const lens = require('lorgnette').lens;
 
 const csvFilePath = "translations.csv";
 const xliffFilePath = "fr.xliff";
@@ -25,14 +26,18 @@ function withDictionary(file, callback) {
 sax.ENTITIES['lt'] = '&lt;'
 sax.ENTITIES['gt'] = '&gt;'
 
+Array.prototype.flatMap = function(lambda) { 
+  return Array.prototype.concat.apply([], this.map(lambda)); 
+};
+
 function withXiff(file, callback) {
-  const builder = new xml2js.Builder({xmldec: { 'version': '1.0', 'encoding': 'UTF-8', 'standalone': false}} );
 
   try {
     const fileData = fs.readFileSync(file, 'utf8');
     const parser = new xml2js.Parser()
     parser.parseString(fileData.substring(0, fileData.length), function (err, result) {
-      callback(builder.buildObject(result, {version: '1.0', encoding: 'UTF-8', standalone: false}));
+      //callback();
+      callback(result);
     });
   } catch (ex) {
     console.log("Unable to read file '" + file + "'.");
@@ -42,8 +47,21 @@ function withXiff(file, callback) {
 
 withDictionary(csvFilePath, function(dict) {
   withXiff(xliffFilePath, function(xliff) {
-    //console.log(xliff);
-    fs.writeFile('fr-parsed.txt', xliff, 'utf8')
-    //console.log(xliff);
+    const builder = new xml2js.Builder({xmldec: { 'version': '1.0', 'encoding': 'UTF-8', 'standalone': false}} );
+
+    xliff['xliff']['file'].forEach(function(r) {
+      r['body'].forEach(function(r) {
+        r['trans-unit'].forEach(function(r) {
+          const value = dict[r['source'][0]];
+
+          if (value) {
+            r['target'] = value;
+          }
+        });
+      })
+    });
+
+    const xml = builder.buildObject(xliff);
+    fs.writeFile('fr-new.xliff', xml, 'utf8');
   })
 });

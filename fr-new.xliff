@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Hey Ya!/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="0Ak-Tp-VBy.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "0Ak-Tp-VBy";</note>
+      </trans-unit>
+      <trans-unit id="1AH-Xs-hn4.normalTitle">
+        <source>Cancel</source>
+        <target>Annuler</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "1AH-Xs-hn4";</note>
+      </trans-unit>
+      <trans-unit id="2Ow-Vo-YpT.normalTitle">
+        <source>Done</source>
+        <target>Fait</target>
+        <note>Class = "UIButton"; normalTitle = "Done"; ObjectID = "2Ow-Vo-YpT";</note>
+      </trans-unit>
+      <trans-unit id="2gJ-jf-EmV.normalTitle">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UIButton"; normalTitle = "0"; ObjectID = "2gJ-jf-EmV";</note>
+      </trans-unit>
+      <trans-unit id="4CM-cI-YSI.placeholder">
+        <source>Leave a note</source>
+        <target>Laisser une note</target>
+        <note>Class = "UITextField"; placeholder = "Leave a note"; ObjectID = "4CM-cI-YSI";</note>
+      </trans-unit>
+      <trans-unit id="4Hv-Rn-u7a.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "4Hv-Rn-u7a";</note>
+      </trans-unit>
+      <trans-unit id="6D2-4e-vmO.segmentTitles[0]">
+        <source>Friends</source>
+        <target>Amis</target>
+        <note>Class = "UISegmentedControl"; 6D2-4e-vmO.segmentTitles[0] = "Friends"; ObjectID = "6D2-4e-vmO";</note>
+      </trans-unit>
+      <trans-unit id="6D2-4e-vmO.segmentTitles[1]">
+        <source>Add</source>
+        <target>Ajouter des amis</target>
+        <note>Class = "UISegmentedControl"; 6D2-4e-vmO.segmentTitles[1] = "Add"; ObjectID = "6D2-4e-vmO";</note>
+      </trans-unit>
+      <trans-unit id="7Lj-Wg-FwP.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "7Lj-Wg-FwP";</note>
+      </trans-unit>
+      <trans-unit id="BK8-Fr-bNH.title">
+        <source>Legends</source>
+        <target>Légendes</target>
+        <note>Class = "UIViewController"; title = "Legends"; ObjectID = "BK8-Fr-bNH";</note>
+      </trans-unit>
+      <trans-unit id="BVs-a3-CFA.text">
+        <source>Legends</source>
+        <target>Légendes</target>
+        <note>Class = "UILabel"; text = "Legends"; ObjectID = "BVs-a3-CFA";</note>
+      </trans-unit>
+      <trans-unit id="Bjd-RT-tvc.text">
+        <source>You can't add participants</source>
+        <target>Vous ne pouvez pas rajouter des participants</target>
+        <note>Class = "UILabel"; text = "You can't add participants"; ObjectID = "Bjd-RT-tvc";</note>
+      </trans-unit>
+      <trans-unit id="DV0-qm-Ula.highlightedTitle">
+        <source>Unblock</source>
+        <target>Débloquer</target>
+        <note>Class = "UIButton"; highlightedTitle = "Unblock"; ObjectID = "DV0-qm-Ula";</note>
+      </trans-unit>
+      <trans-unit id="DV0-qm-Ula.normalTitle">
+        <source>Block</source>
+        <target>Bloquer</target>
+        <note>Class = "UIButton"; normalTitle = "Block"; ObjectID = "DV0-qm-Ula";</note>
+      </trans-unit>
+      <trans-unit id="DV0-qm-Ula.selectedTitle">
+        <source>Unblock</source>
+        <target>Débloquer</target>
+        <note>Class = "UIButton"; selectedTitle = "Unblock"; ObjectID = "DV0-qm-Ula";</note>
+      </trans-unit>
+      <trans-unit id="DuW-jl-g2S.text">
+        <source>invited you</source>
+        <target>vous a invité</target>
+        <note>Class = "UILabel"; text = "invited you"; ObjectID = "DuW-jl-g2S";</note>
+      </trans-unit>
+      <trans-unit id="FjM-Kb-HrR.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "FjM-Kb-HrR";</note>
+      </trans-unit>
+      <trans-unit id="GRw-rp-hvn.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UIBarButtonItem"; title = "Item"; ObjectID = "GRw-rp-hvn";</note>
+      </trans-unit>
+      <trans-unit id="HUc-RB-csD.text">
+        <source>"Hey, still here?"</source>
+        <target>"Hey, toujours là?"</target>
+        <note>Class = "UILabel"; text = "\"Hey, still here?\""; ObjectID = "HUc-RB-csD";</note>
+      </trans-unit>
+      <trans-unit id="HoD-7E-9TU.normalTitle">
+        <source>Invite</source>
+        <target>Inviter</target>
+        <note>Class = "UIButton"; normalTitle = "Invite"; ObjectID = "HoD-7E-9TU";</note>
+      </trans-unit>
+      <trans-unit id="IfY-S9-Ueu.text">
+        <source>Please check your connection</source>
+        <target>Vérifiez votre connexion Internet</target>
+        <note>Class = "UILabel"; text = "Please check your connection"; ObjectID = "IfY-S9-Ueu";</note>
+      </trans-unit>
+      <trans-unit id="JWY-OY-wBA.text">
+        <source>Please enter your phone number</source>
+        <target>Entrez votre numéro de téléphone</target>
+        <note>Class = "UILabel"; text = "Please enter your phone number"; ObjectID = "JWY-OY-wBA";</note>
+      </trans-unit>
+      <trans-unit id="MiA-i3-UMO.text">
+        <source>mobile</source>
+        <target>mobile</target>
+        <note>Class = "UILabel"; text = "mobile"; ObjectID = "MiA-i3-UMO";</note>
+      </trans-unit>
+      <trans-unit id="MkM-2j-FmN.text">
+        <source>+32 488 565810</source>
+        <target>+32 488 565810</target>
+        <note>Class = "UILabel"; text = "+32 488 565810"; ObjectID = "MkM-2j-FmN";</note>
+      </trans-unit>
+      <trans-unit id="N7f-2V-Jg3.text">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "N7f-2V-Jg3";</note>
+      </trans-unit>
+      <trans-unit id="NcV-5x-2Pk.text">
+        <source>Settings</source>
+        <target>Réglages</target>
+        <note>Class = "UILabel"; text = "Settings"; ObjectID = "NcV-5x-2Pk";</note>
+      </trans-unit>
+      <trans-unit id="Nqp-AG-MvY.text">
+        <source>Add participants</source>
+        <target>Ajouter des participants</target>
+        <note>Class = "UILabel"; text = "Add participants"; ObjectID = "Nqp-AG-MvY";</note>
+      </trans-unit>
+      <trans-unit id="RQP-sg-k20.text">
+        <source>Your legend ended!</source>
+        <target>Votre légende a pris fin!</target>
+        <note>Class = "UILabel"; text = "Your legend ended!"; ObjectID = "RQP-sg-k20";</note>
+      </trans-unit>
+      <trans-unit id="RuH-jn-UJP.text">
+        <source>Choose your username</source>
+        <target>Choisissez votre nom d'utilisateur</target>
+        <note>Class = "UILabel"; text = "Choose your username"; ObjectID = "RuH-jn-UJP";</note>
+      </trans-unit>
+      <trans-unit id="SIX-0R-EfE.text">
+        <source>ClaraB</source>
+        <target>ClaraB</target>
+        <note>Class = "UILabel"; text = "ClaraB"; ObjectID = "SIX-0R-EfE";</note>
+      </trans-unit>
+      <trans-unit id="Twn-qk-R8l.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Twn-qk-R8l";</note>
+      </trans-unit>
+      <trans-unit id="WSE-SJ-Eje.text">
+        <source>Your legend can't be created</source>
+        <target>Votre légende ne peut pas être créée</target>
+        <note>Class = "UILabel"; text = "Your legend can't be created"; ObjectID = "WSE-SJ-Eje";</note>
+      </trans-unit>
+      <trans-unit id="Ww5-I0-n5T.placeholder">
+        <source>Search someone from everywhere</source>
+        <target>Chercher de partout</target>
+        <note>Class = "UITextField"; placeholder = "Search someone from everywhere"; ObjectID = "Ww5-I0-n5T";</note>
+      </trans-unit>
+      <trans-unit id="X9Q-yU-CnK.text">
+        <source>Label  1</source>
+        <target>Label  1</target>
+        <note>Class = "UILabel"; text = "Label  1"; ObjectID = "X9Q-yU-CnK";</note>
+      </trans-unit>
+      <trans-unit id="XLp-PI-DpN.text">
+        <source>Viewers (0)</source>
+        <target>Spectateurs (0)</target>
+        <note>Class = "UILabel"; text = "Viewers (0)"; ObjectID = "XLp-PI-DpN";</note>
+      </trans-unit>
+      <trans-unit id="XWR-T9-Tf3.placeholder">
+        <source>Find a friend</source>
+        <target>Trouver un ami</target>
+        <note>Class = "UITextField"; placeholder = "Find a friend"; ObjectID = "XWR-T9-Tf3";</note>
+      </trans-unit>
+      <trans-unit id="b5b-Zn-cwq.title">
+        <source>Take a photo</source>
+        <target>Prenez une photo</target>
+        <note>Class = "UINavigationItem"; title = "Take a photo"; ObjectID = "b5b-Zn-cwq";</note>
+      </trans-unit>
+      <trans-unit id="cpc-vI-Qx5.text">
+        <source>Fabien</source>
+        <target>Fabien</target>
+        <note>Class = "UILabel"; text = "Fabien"; ObjectID = "cpc-vI-Qx5";</note>
+      </trans-unit>
+      <trans-unit id="cu6-U7-IWu.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "cu6-U7-IWu";</note>
+      </trans-unit>
+      <trans-unit id="ddF-WU-B3V.normalTitle">
+        <source>Invite</source>
+        <target>Inviter</target>
+        <note>Class = "UIButton"; normalTitle = "Invite"; ObjectID = "ddF-WU-B3V";</note>
+      </trans-unit>
+      <trans-unit id="e8o-Ac-lgo.normalTitle">
+        <source>SKIP</source>
+        <target>PASSER</target>
+        <note>Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "e8o-Ac-lgo";</note>
+      </trans-unit>
+      <trans-unit id="hUx-cO-xhq.text">
+        <source>There are no participants to add</source>
+        <target>Il n'y a aucun participant à ajouter</target>
+        <note>Class = "UILabel"; text = "There are no participants to add"; ObjectID = "hUx-cO-xhq";</note>
+      </trans-unit>
+      <trans-unit id="hmv-UI-Rgd.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "hmv-UI-Rgd";</note>
+      </trans-unit>
+      <trans-unit id="nfF-gd-XRu.text">
+        <source>0 / 30</source>
+        <target>0 / 30</target>
+        <note>Class = "UILabel"; text = "0 / 30"; ObjectID = "nfF-gd-XRu";</note>
+      </trans-unit>
+      <trans-unit id="o5a-bR-yQk.normalTitle">
+        <source>Cancel</source>
+        <target>Annuler</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "o5a-bR-yQk";</note>
+      </trans-unit>
+      <trans-unit id="pEa-4K-fbs.text">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "pEa-4K-fbs";</note>
+      </trans-unit>
+      <trans-unit id="qN2-QD-dQW.normalTitle">
+        <source>Invite</source>
+        <target>Inviter</target>
+        <note>Class = "UIButton"; normalTitle = "Invite"; ObjectID = "qN2-QD-dQW";</note>
+      </trans-unit>
+      <trans-unit id="qNz-br-0dV.normalTitle">
+        <source>Invite</source>
+        <target>Inviter</target>
+        <note>Class = "UIButton"; normalTitle = "Invite"; ObjectID = "qNz-br-0dV";</note>
+      </trans-unit>
+      <trans-unit id="rPD-yo-zSh.normalTitle">
+        <source>Cancel</source>
+        <target>Annuler</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "rPD-yo-zSh";</note>
+      </trans-unit>
+      <trans-unit id="snF-gM-1t9.text">
+        <source>Nobody has seen your legend</source>
+        <target>Personne n'a vu votre légende</target>
+        <note>Class = "UILabel"; text = "Nobody has seen your legend"; ObjectID = "snF-gM-1t9";</note>
+      </trans-unit>
+      <trans-unit id="unn-vo-YO7.text">
+        <source>Everyone</source>
+        <target>Tout le monde</target>
+        <note>Class = "UILabel"; text = "Everyone"; ObjectID = "unn-vo-YO7";</note>
+      </trans-unit>
+      <trans-unit id="vzA-Kh-34y.text">
+        <source>Rousseau</source>
+        <target>Rousseau</target>
+        <note>Class = "UILabel"; text = "Rousseau"; ObjectID = "vzA-Kh-34y";</note>
+      </trans-unit>
+      <trans-unit id="w8y-o2-zYh.text">
+        <source>Welcome !</source>
+        <target>Bienvenue !</target>
+        <note>Class = "UILabel"; text = "Welcome !"; ObjectID = "w8y-o2-zYh";</note>
+      </trans-unit>
+      <trans-unit id="wji-76-r9V.text">
+        <source>Log Out</source>
+        <target>Déconnexion</target>
+        <note>Class = "UILabel"; text = "Log Out"; ObjectID = "wji-76-r9V";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/Localizable.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="%@ invited you">
+        <source>%@ invited you</source>
+        <target>%@ vous a invité</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ is your current phone number. It's already confirmed and active. If you want to change, enter new one in according field and press SEND">
+        <source>%@ is your current phone number. It's already confirmed and active. If you want to change, enter new one in according field and press SEND</source>
+        <target>%@ est votre numéro de téléphone. Il a déja été confirmé et est actif. Si vous voulez le changer, entrez le nouveau numéro dans le champs correspondant et appuyer ENVOYER</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add as a friend">
+        <source>Add as a friend</source>
+        <target>Invitez ces contacts sur Heyya</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add me on Heyya, my username is %@: %@">
+        <source>Add me on Heyya, my username is %1$@: %2$@</source>
+        <target>Ajoutez moi sur Heyya, mon nom d'utilisateur est %1$@: @2$@</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Alert for new legend from">
+        <source>Alert for new legend from</source>
+        <target>Notification pour une légende de</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Alert for new post from">
+        <source>Alert for new post from</source>
+        <target>Notification pour une publication de</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Alert for new viewer">
+        <source>Alert for new viewer</source>
+        <target>Notification pour les spectateurs</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All friends">
+        <source>All friends</source>
+        <target>Tous vos amis</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="All your friends are already added">
+        <source>All your friends are already added</source>
+        <target>Tous vos amis sont déjà ajoutés</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Auto accept friend requests">
+        <source>Auto accept friend requests</source>
+        <target>Accepter toutes les demandes d'amitié</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Annuler</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Code">
+        <source>Code</source>
+        <target>Code</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Collecting contacts ...">
+        <source>Collecting contacts ...</source>
+        <target>Chargement des contacts...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Effacer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete %@ from your contacts?">
+        <source>Delete %@ from your contacts?</source>
+        <target>Effacer %@ de vos contacts?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Denied">
+        <source>Denied</source>
+        <target>Refusé</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Denied access to address book">
+        <source>Denied access to address book</source>
+        <target>Accès au carnet d'adresses refusé</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Error!">
+        <source>Error!</source>
+        <target>Erreur!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Everyone">
+        <source>Everyone</source>
+        <target>Tout le monde</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Favorites">
+        <source>Favorites</source>
+        <target>Favoris</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Friend requests">
+        <source>Friend requests</source>
+        <target>Demande d'amitié</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Friend's legend">
+        <source>Friend's legend</source>
+        <target>Légende de vos amis</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Friends">
+        <source>Friends</source>
+        <target>Amis</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Friends can add participants">
+        <source>Friends can add participants</source>
+        <target>Les participants peuvent inviter</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hey! Add them as friend">
+        <source>Hey! Add them as friend</source>
+        <target>Hey! Ajoutez les en ami</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Input data error">
+        <source>Input data error</source>
+        <target>Erreur des données d'entrée</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Loading...">
+        <source>Loading...</source>
+        <target>Chargement...</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <target>Déconnexion</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NO">
+        <source>NO</source>
+        <target>NON</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No one">
+        <source>No one</source>
+        <target>Personne</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Not Enough Free Space. ">
+        <source>Not Enough Free Space. </source>
+        <target>Pas assez d'espace</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notification sound">
+        <source>Notification sound</source>
+        <target>Son des notifications</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pending">
+        <source>Pending</source>
+        <target>En attente</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Phone format error">
+        <source>Phone format error</source>
+        <target>Erreur format du numéro de téléphone</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Phone is too short">
+        <source>Phone is too short</source>
+        <target>Ce numéro de téléphone est trop court</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Phone number is too short. Please, check if you've entered it correctly">
+        <source>Phone number is too short. Please, check if you've entered it correctly</source>
+        <target>Ce numéro de téléphone est trop court. Vérifiez si vous l'avez entré correctement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please go to iOS Settings &gt; General &gt; Usage to reclaim space on your device">
+        <source>Please go to iOS Settings &gt; General &gt; Usage to reclaim space on your device</source>
+        <target>Aller dans Réglages &gt; Général &gt; Stockage pour gérer l'espace dans votre appareil</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please, check again if you entered a correct phone number">
+        <source>Please, check again if you entered a correct phone number</source>
+        <target>Vérifiez si vous avez entré un numéro de téléphone valide</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pull to Refresh">
+        <source>Pull to Refresh</source>
+        <target>Tirer pour actualiser</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recording Error!">
+        <source>Recording Error!</source>
+        <target>Erreur d'enregistrement!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Send an invitation to other contacts">
+        <source>Send an invitation to other contacts</source>
+        <target>Inviter ces contacts sur Heyya</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Something went wrong. File not saved">
+        <source>Something went wrong. File not saved</source>
+        <target>Il y a eu un incident. Le fichier n'est pas sauvé</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to take a shot, hold to start recording !">
+        <source>Tap to take a shot, hold to start recording !</source>
+        <target>Appuyez pour prendre une photo, appuyez plus longtemps pour une vidéo!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="They accepted your request">
+        <source>They accepted your request</source>
+        <target>Ils ont accepté votre demande d'amitié</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This character '%@' is not allowed in nickname">
+        <source>This character '%@' is not allowed in nickname</source>
+        <target>Ce caractère '%@' n'est pas autorisé dans votre nom d'utilisateur</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This character '%@' is not allowed in phone number">
+        <source>This character '%@' is not allowed in phone number</source>
+        <target>Ce caractère '%@' n'est pas autorisé dans votre numéro de téléphone</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This legend ended!">
+        <source>This legend ended!</source>
+        <target>Cette légende a pris fin!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This legend is no longer available">
+        <source>This legend is no longer available</source>
+        <target>Cette légende a été effacée!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="To log back in you will have to verify your phone via SMS again.">
+        <source>To log back in you will have to verify your phone via SMS again.</source>
+        <target>Pour vous reconnecter, vous devrez revérifier votre numéro de téléphone par SMS</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Username">
+        <source>Username</source>
+        <target>Nom d'utilisateur</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Viewers">
+        <source>Viewers</source>
+        <target>Spectateurs</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What are you up to?">
+        <source>What are you up to?</source>
+        <target>Que fais tu?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="What are your friends doing? \n Ask them now!">
+        <source>What are your friends doing? 
+ Ask them now!</source>
+        <target>Que font tes amis ? Demande leur maintenant !</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="When this is active, you see only legends from your ">
+        <source>When this is active, you see only legends from your </source>
+        <target>Vous ne verrez que les légendes de vos favoris quand vous activez ceci</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="YES">
+        <source>YES</source>
+        <target>OUI</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="You have an active legend. Delete it to start a new one">
+        <source>You have an active legend. Delete it to start a new one</source>
+        <target>Votre légende est active. Effacez là pour en commencer une nouvelle</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your account">
+        <source>Your account</source>
+        <target>Votre compte</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your contacts can find you">
+        <source>Your contacts can find you</source>
+        <target>Vos contacts peuvent vous trouver</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your device is currently unable to send text messages">
+        <source>Your device is currently unable to send text messages</source>
+        <target>Votre appareil ne peut pas envoyer des messages</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your legend">
+        <source>Your legend</source>
+        <target>VOTRE LÉGENDE</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your legend can't be created">
+        <source>Your legend can't be created</source>
+        <target>Votre légende ne peut pas être créée</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your legend ended!">
+        <source>Your legend ended!</source>
+        <target>Votre légende a pris fin!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your phone is already confirmed">
+        <source>Your phone is already confirmed</source>
+        <target>Votre numéro de téléphone est déjà vérifié</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your phone should begin with %@. It's a phone code for %@. \n\nIf it's not your country, please, tap on according field and change it">
+        <source>Your phone should begin with %1$@. It's a phone code for %2$@. 
+
+If it's not your country, please, tap on according field and change it</source>
+        <target>Votre numéro de téléphone doit commencer par %1$@. C'est le code pour %2$@. \n\nSi ce n'est pas votre pays, appuyez sur le champs correspondant et changez le</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your post can't be created">
+        <source>Your post can't be created</source>
+        <target>Votre publication ne peut pas être créée</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your username is too short.">
+        <source>Your username is too short.</source>
+        <target>Votre nom d'utilisateur est trop court.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="heyya does not have access to your camera. To enable access, tap Settings and turn on Camera">
+        <source>heyya does not have access to your camera. To enable access, tap Settings and turn on Camera</source>
+        <target>heyya n'a pas accès à votre appareil photo. Pour autoriser l'accès, allez dans Réglage et activez l'accès</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="heyya does not have access to your contacts. To enable access, tap Settings and turn on Contacts">
+        <source>heyya does not have access to your contacts. To enable access, tap Settings and turn on Contacts</source>
+        <target>heyya n'a pas accès à votre carnet d'adresse. Pour autoriser l'accès, allez dans Réglages et activez l'accès</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="heyya does not have access to your microphone. To enable access, tap Settings and turn on Microphone">
+        <source>heyya does not have access to your microphone. To enable access, tap Settings and turn on Microphone</source>
+        <target>heyya n'a pas accès à votre microphone. Pour autoriser l'accès, allez dans Réglages et activez l'accès</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="iMessage error">
+        <source>iMessage error</source>
+        <target>erreur iMessage</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="no name">
+        <source>no name</source>
+        <target>pas de nom</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="send">
+        <source>send</source>
+        <target>envoyer</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/ViewControllers/AddFriendsIntroController/Views/Base.lproj/HYIntroductionView.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="CVL-oL-CCl.text">
+        <source>Hey! Add them as friend</source>
+        <target>Hey! Ajoutez les en ami</target>
+        <note>Class = "UILabel"; text = "Hey! Add them as friend"; ObjectID = "CVL-oL-CCl";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/ViewControllers/ContactsScreen/ContactsTable/UsersUI/Base.lproj/HYFriendCell.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="RaZ-KM-ngo.highlightedTitle">
+        <source>Unblock</source>
+        <target>Débloquer</target>
+        <note>Class = "UIButton"; highlightedTitle = "Unblock"; ObjectID = "RaZ-KM-ngo";</note>
+      </trans-unit>
+      <trans-unit id="RaZ-KM-ngo.normalTitle">
+        <source>Block</source>
+        <target>Bloquer</target>
+        <note>Class = "UIButton"; normalTitle = "Block"; ObjectID = "RaZ-KM-ngo";</note>
+      </trans-unit>
+      <trans-unit id="RaZ-KM-ngo.selectedTitle">
+        <source>Unblock</source>
+        <target>Débloquer</target>
+        <note>Class = "UIButton"; selectedTitle = "Unblock"; ObjectID = "RaZ-KM-ngo";</note>
+      </trans-unit>
+      <trans-unit id="nLj-xV-gKg.normalTitle">
+        <source>Delete this friend</source>
+        <target>Supprimer cet ami</target>
+        <note>Class = "UIButton"; normalTitle = "Delete this friend"; ObjectID = "nLj-xV-gKg";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/ViewControllers/ContactsScreen/ContactsVC/SearchCell/Base.lproj/HYSearchCell.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="Y8N-9O-nzE.text">
+        <source>dady</source>
+        <target>dady</target>
+        <note>Class = "UILabel"; text = "dady"; ObjectID = "Y8N-9O-nzE";</note>
+      </trans-unit>
+      <trans-unit id="gCd-CL-yV8.text">
+        <source>Already in your friends</source>
+        <target>Déjà dans vos amis</target>
+        <note>Class = "UILabel"; text = "Already in your friends"; ObjectID = "gCd-CL-yV8";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/ViewControllers/HomePage/Views/HYLegendCell/Base.lproj/HYLegendOwnerCell.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="ccw-hv-QTy.normalTitle">
+        <source>Delete your legend</source>
+        <target>Supprimer votre légende</target>
+        <note>Class = "UIButton"; normalTitle = "Delete your legend"; ObjectID = "ccw-hv-QTy";</note>
+      </trans-unit>
+      <trans-unit id="hSD-iJ-BJt.normalTitle">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UIButton"; normalTitle = "0"; ObjectID = "hSD-iJ-BJt";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/ViewControllers/HomePage/Views/HYThumbnailView/Base.lproj/HYThumbnailView.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="5xc-ze-J8F.text">
+        <source>What are your friends doing? Ask them now!</source>
+        <target>Que font tes amis? Demandes leur maintenant!</target>
+        <note>Class = "UILabel"; text = "What are your friends doing? Ask them now!"; ObjectID = "5xc-ze-J8F";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/ViewControllers/LegendUsers/UI/Base.lproj/HYOwnerViewerCell.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="RaZ-KM-ngo.highlightedTitle">
+        <source>Unblock</source>
+        <target>Débloquer</target>
+        <note>Class = "UIButton"; highlightedTitle = "Unblock"; ObjectID = "RaZ-KM-ngo";</note>
+      </trans-unit>
+      <trans-unit id="RaZ-KM-ngo.normalTitle">
+        <source>Block</source>
+        <target>Bloquer</target>
+        <note>Class = "UIButton"; normalTitle = "Block"; ObjectID = "RaZ-KM-ngo";</note>
+      </trans-unit>
+      <trans-unit id="RaZ-KM-ngo.selectedTitle">
+        <source>Unblock</source>
+        <target>Débloquer</target>
+        <note>Class = "UIButton"; selectedTitle = "Unblock"; ObjectID = "RaZ-KM-ngo";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/ViewControllers/NavigationController/ChangeNumberVC/Base.lproj/ChangeNumberViewController.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="8lE-Ij-4Go.placeholder">
+        <source>enter your phone number</source>
+        <target>Entrez votre numéro de téléphone</target>
+        <note>Class = "UITextField"; placeholder = "enter your phone number"; ObjectID = "8lE-Ij-4Go";</note>
+      </trans-unit>
+      <trans-unit id="8lE-Ij-4Go.text">
+        <source>+44</source>
+        <target>+44</target>
+        <note>Class = "UITextField"; text = "+44"; ObjectID = "8lE-Ij-4Go";</note>
+      </trans-unit>
+      <trans-unit id="BB5-y7-9lD.text">
+        <source>+44</source>
+        <target>+44</target>
+        <note>Class = "UILabel"; text = "+44"; ObjectID = "BB5-y7-9lD";</note>
+      </trans-unit>
+      <trans-unit id="Jdf-fy-0vJ.normalTitle">
+        <source>Username</source>
+        <target>Nom d'utilisateur</target>
+        <note>Class = "UIButton"; normalTitle = "Username"; ObjectID = "Jdf-fy-0vJ";</note>
+      </trans-unit>
+      <trans-unit id="TWq-9n-7hN.text">
+        <source>Your Mobile</source>
+        <target>Votre numéro de téléphone</target>
+        <note>Class = "UILabel"; text = "Your Mobile"; ObjectID = "TWq-9n-7hN";</note>
+      </trans-unit>
+      <trans-unit id="VYE-vB-Mde.normalTitle">
+        <source>SEND</source>
+        <target>ENVOYER</target>
+        <note>Class = "UIButton"; normalTitle = "SEND"; ObjectID = "VYE-vB-Mde";</note>
+      </trans-unit>
+      <trans-unit id="Wms-qm-euN.normalTitle">
+        <source>United Kingdom</source>
+        <target>United Kingdom</target>
+        <note>Class = "UIButton"; normalTitle = "United Kingdom"; ObjectID = "Wms-qm-euN";</note>
+      </trans-unit>
+      <trans-unit id="zc5-F6-0Bw.text">
+        <source>Settings</source>
+        <target>Réglages</target>
+        <note>Class = "UILabel"; text = "Settings"; ObjectID = "zc5-F6-0Bw";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/ViewControllers/SMSConfirmScreen/Base.lproj/SMSConfirmationView.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="4Q3-Je-Kdj.placeholder">
+        <source>Code</source>
+        <target>Code</target>
+        <note>Class = "UITextField"; placeholder = "Code"; ObjectID = "4Q3-Je-Kdj";</note>
+      </trans-unit>
+      <trans-unit id="feg-Bq-z9U.text">
+        <source>Verification Code</source>
+        <target>Code de vérification</target>
+        <note>Class = "UILabel"; text = "Verification Code"; ObjectID = "feg-Bq-z9U";</note>
+      </trans-unit>
+      <trans-unit id="kaT-Oh-zXQ.text">
+        <source>Enter the verification code you received by SMS</source>
+        <target>Entrez le code que vous avez reçu par SMS</target>
+        <note>Class = "UILabel"; text = "Enter the verification code you received by SMS"; ObjectID = "kaT-Oh-zXQ";</note>
+      </trans-unit>
+      <trans-unit id="tdu-s5-2Km.normalTitle">
+        <source>SEND</source>
+        <target>ENVOYER</target>
+        <note>Class = "UIButton"; normalTitle = "SEND"; ObjectID = "tdu-s5-2Km";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!/heyya-Info.plist" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>${PRODUCT_NAME}</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>${PRODUCT_NAME}</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.0.40</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!Tests/Localizable.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>No comment provided by engineer.</note>
+        <target>Annuler</target>
+      </trans-unit>
+      <trans-unit id="Collecting contacts ...">
+        <source>Collecting contacts ...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hey! Add them as friend">
+        <source>Hey! Add them as friend</source>
+        <note>No comment provided by engineer.</note>
+        <target>Hey! Ajoutez les en ami</target>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NO">
+        <source>NO</source>
+        <note>No comment provided by engineer.</note>
+        <target>NON</target>
+      </trans-unit>
+      <trans-unit id="Not Enough Free Space. ">
+        <source>Not Enough Free Space. </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please go to iOS Settings &gt; General &gt; Usage to reclaim space on your device">
+        <source>Please go to iOS Settings &gt; General &gt; Usage to reclaim space on your device</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recording Error!">
+        <source>Recording Error!</source>
+        <note>No comment provided by engineer.</note>
+        <target>Erreur d'enregistrement!</target>
+      </trans-unit>
+      <trans-unit id="Something went wrong. File not saved">
+        <source>Something went wrong. File not saved</source>
+        <note>No comment provided by engineer.</note>
+        <target>Il y a eu un incident. Le fichier n'est pas sauvé</target>
+      </trans-unit>
+      <trans-unit id="YES">
+        <source>YES</source>
+        <note>No comment provided by engineer.</note>
+        <target>OUI</target>
+      </trans-unit>
+      <trans-unit id="Your device is currently unable to send text messages">
+        <source>Your device is currently unable to send text messages</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre appareil ne peut pas envoyer des messages</target>
+      </trans-unit>
+      <trans-unit id="Your post can't be created">
+        <source>Your post can't be created</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre publication ne peut pas être créée</target>
+      </trans-unit>
+      <trans-unit id="heyya does not have access to your camera. To enable access, tap Settings and turn on Camera">
+        <source>heyya does not have access to your camera. To enable access, tap Settings and turn on Camera</source>
+        <note>No comment provided by engineer.</note>
+        <target>heyya n'a pas accès à votre appareil photo. Pour autoriser l'accès, allez dans Réglage et activez l'accès</target>
+      </trans-unit>
+      <trans-unit id="heyya does not have access to your microphone. To enable access, tap Settings and turn on Microphone">
+        <source>heyya does not have access to your microphone. To enable access, tap Settings and turn on Microphone</source>
+        <note>No comment provided by engineer.</note>
+        <target>heyya n'a pas accès à votre microphone. Pour autoriser l'accès, allez dans Réglages et activez l'accès</target>
+      </trans-unit>
+      <trans-unit id="iMessage error">
+        <source>iMessage error</source>
+        <note>No comment provided by engineer.</note>
+        <target>erreur iMessage</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Hey Ya!Tests/heyyaTests-Info.plist" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Localizable.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3.1" build-num="7D1014"/>
+    </header>
+    <body>
+      <trans-unit id="%@ invited you">
+        <source>%@ invited you</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="%@ is your current phone number. It's already confirmed and active. If you want to change, enter new one in according field and press SEND">
+        <source>%@ is your current phone number. It's already confirmed and active. If you want to change, enter new one in according field and press SEND</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add as a friend">
+        <source>Add as a friend</source>
+        <note>No comment provided by engineer.</note>
+        <target>Invitez ces contacts sur Heyya</target>
+      </trans-unit>
+      <trans-unit id="Add me on Heyya, my username is %@: %@">
+        <source>Add me on Heyya, my username is %1$@: %2$@</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Alert for new legend from">
+        <source>Alert for new legend from</source>
+        <note>No comment provided by engineer.</note>
+        <target>Notification pour une légende de</target>
+      </trans-unit>
+      <trans-unit id="Alert for new post from">
+        <source>Alert for new post from</source>
+        <note>No comment provided by engineer.</note>
+        <target>Notification pour une publication de</target>
+      </trans-unit>
+      <trans-unit id="Alert for new viewer">
+        <source>Alert for new viewer</source>
+        <note>No comment provided by engineer.</note>
+        <target>Notification pour les spectateurs</target>
+      </trans-unit>
+      <trans-unit id="All friends">
+        <source>All friends</source>
+        <note>No comment provided by engineer.</note>
+        <target>Tous vos amis</target>
+      </trans-unit>
+      <trans-unit id="All your friends are already added">
+        <source>All your friends are already added</source>
+        <note>No comment provided by engineer.</note>
+        <target>Tous vos amis sont déjà ajoutés</target>
+      </trans-unit>
+      <trans-unit id="Auto accept friend requests">
+        <source>Auto accept friend requests</source>
+        <note>No comment provided by engineer.</note>
+        <target>Accepter toutes les demandes d'amitié</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <note>No comment provided by engineer.</note>
+        <target>Annuler</target>
+      </trans-unit>
+      <trans-unit id="Code">
+        <source>Code</source>
+        <note>No comment provided by engineer.</note>
+        <target>Code</target>
+      </trans-unit>
+      <trans-unit id="Collecting contacts ...">
+        <source>Collecting contacts ...</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Delete %@ from your contacts?">
+        <source>Delete %@ from your contacts?</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Denied">
+        <source>Denied</source>
+        <note>No comment provided by engineer.</note>
+        <target>Refusé</target>
+      </trans-unit>
+      <trans-unit id="Denied access to address book">
+        <source>Denied access to address book</source>
+        <note>No comment provided by engineer.</note>
+        <target>Accès au carnet d'adresses refusé</target>
+      </trans-unit>
+      <trans-unit id="Error!">
+        <source>Error!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Everyone">
+        <source>Everyone</source>
+        <note>No comment provided by engineer.</note>
+        <target>Tout le monde</target>
+      </trans-unit>
+      <trans-unit id="Favorites">
+        <source>Favorites</source>
+        <note>No comment provided by engineer.</note>
+        <target>Favoris</target>
+      </trans-unit>
+      <trans-unit id="Friend requests">
+        <source>Friend requests</source>
+        <note>No comment provided by engineer.</note>
+        <target>Demande d'amitié</target>
+      </trans-unit>
+      <trans-unit id="Friend's legend">
+        <source>Friend's legend</source>
+        <note>No comment provided by engineer.</note>
+        <target>Légende de vos amis</target>
+      </trans-unit>
+      <trans-unit id="Friends">
+        <source>Friends</source>
+        <note>No comment provided by engineer.</note>
+        <target>Amis</target>
+      </trans-unit>
+      <trans-unit id="Friends can add participants">
+        <source>Friends can add participants</source>
+        <note>No comment provided by engineer.</note>
+        <target>Les participants peuvent inviter</target>
+      </trans-unit>
+      <trans-unit id="Hey! Add them as friend">
+        <source>Hey! Add them as friend</source>
+        <note>No comment provided by engineer.</note>
+        <target>Hey! Ajoutez les en ami</target>
+      </trans-unit>
+      <trans-unit id="Input data error">
+        <source>Input data error</source>
+        <note>No comment provided by engineer.</note>
+        <target>Erreur des données d'entrée</target>
+      </trans-unit>
+      <trans-unit id="Loading...">
+        <source>Loading...</source>
+        <note>No comment provided by engineer.</note>
+        <target>Chargement...</target>
+      </trans-unit>
+      <trans-unit id="Logout">
+        <source>Logout</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NO">
+        <source>NO</source>
+        <note>No comment provided by engineer.</note>
+        <target>NON</target>
+      </trans-unit>
+      <trans-unit id="No one">
+        <source>No one</source>
+        <note>No comment provided by engineer.</note>
+        <target>Personne</target>
+      </trans-unit>
+      <trans-unit id="Not Enough Free Space. ">
+        <source>Not Enough Free Space. </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Notification sound">
+        <source>Notification sound</source>
+        <note>No comment provided by engineer.</note>
+        <target>Son des notifications</target>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <note>No comment provided by engineer.</note>
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="Pending">
+        <source>Pending</source>
+        <note>No comment provided by engineer.</note>
+        <target>En attente</target>
+      </trans-unit>
+      <trans-unit id="Phone format error">
+        <source>Phone format error</source>
+        <note>No comment provided by engineer.</note>
+        <target>Erreur format du numéro de téléphone</target>
+      </trans-unit>
+      <trans-unit id="Phone is too short">
+        <source>Phone is too short</source>
+        <note>No comment provided by engineer.</note>
+        <target>Ce numéro de téléphone est trop court</target>
+      </trans-unit>
+      <trans-unit id="Phone number is too short. Please, check if you've entered it correctly">
+        <source>Phone number is too short. Please, check if you've entered it correctly</source>
+        <note>No comment provided by engineer.</note>
+        <target>Ce numéro de téléphone est trop court. Vérifiez si vous l'avez entré correctement</target>
+      </trans-unit>
+      <trans-unit id="Please go to iOS Settings &gt; General &gt; Usage to reclaim space on your device">
+        <source>Please go to iOS Settings &gt; General &gt; Usage to reclaim space on your device</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please, check again if you entered a correct phone number">
+        <source>Please, check again if you entered a correct phone number</source>
+        <note>No comment provided by engineer.</note>
+        <target>Vérifiez si vous avez entré un numéro de téléphone valide</target>
+      </trans-unit>
+      <trans-unit id="Pull to Refresh">
+        <source>Pull to Refresh</source>
+        <note>No comment provided by engineer.</note>
+        <target>Tirer pour actualiser</target>
+      </trans-unit>
+      <trans-unit id="Recording Error!">
+        <source>Recording Error!</source>
+        <note>No comment provided by engineer.</note>
+        <target>Erreur d'enregistrement!</target>
+      </trans-unit>
+      <trans-unit id="Send an invitation to other contacts">
+        <source>Send an invitation to other contacts</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Something went wrong. File not saved">
+        <source>Something went wrong. File not saved</source>
+        <note>No comment provided by engineer.</note>
+        <target>Il y a eu un incident. Le fichier n'est pas sauvé</target>
+      </trans-unit>
+      <trans-unit id="Tap to take a shot, hold to start recording !">
+        <source>Tap to take a shot, hold to start recording !</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="They accepted your request">
+        <source>They accepted your request</source>
+        <note>No comment provided by engineer.</note>
+        <target>Ils ont accepté votre demande d'amitié</target>
+      </trans-unit>
+      <trans-unit id="This character '%@' is not allowed in nickname">
+        <source>This character '%@' is not allowed in nickname</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This character '%@' is not allowed in phone number">
+        <source>This character '%@' is not allowed in phone number</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="This legend ended!">
+        <source>This legend ended!</source>
+        <note>No comment provided by engineer.</note>
+        <target>Cette légende a pris fin!</target>
+      </trans-unit>
+      <trans-unit id="This legend is no longer available">
+        <source>This legend is no longer available</source>
+        <note>No comment provided by engineer.</note>
+        <target>Cette légende a été effacée!</target>
+      </trans-unit>
+      <trans-unit id="To log back in you will have to verify your phone via SMS again.">
+        <source>To log back in you will have to verify your phone via SMS again.</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Username">
+        <source>Username</source>
+        <note>No comment provided by engineer.</note>
+        <target>Nom d'utilisateur</target>
+      </trans-unit>
+      <trans-unit id="Viewers">
+        <source>Viewers</source>
+        <note>No comment provided by engineer.</note>
+        <target>Spectateurs</target>
+      </trans-unit>
+      <trans-unit id="What are you up to?">
+        <source>What are you up to?</source>
+        <note>No comment provided by engineer.</note>
+        <target>Que fais tu?</target>
+      </trans-unit>
+      <trans-unit id="What are your friends doing? \n Ask them now!">
+        <source>What are your friends doing? 
+ Ask them now!</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="When this is active, you see only legends from your ">
+        <source>When this is active, you see only legends from your </source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="YES">
+        <source>YES</source>
+        <note>No comment provided by engineer.</note>
+        <target>OUI</target>
+      </trans-unit>
+      <trans-unit id="You have an active legend. Delete it to start a new one">
+        <source>You have an active legend. Delete it to start a new one</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre légende est active. Effacez là pour en commencer une nouvelle</target>
+      </trans-unit>
+      <trans-unit id="Your account">
+        <source>Your account</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre compte</target>
+      </trans-unit>
+      <trans-unit id="Your contacts can find you">
+        <source>Your contacts can find you</source>
+        <note>No comment provided by engineer.</note>
+        <target>Vos contacts peuvent vous trouver</target>
+      </trans-unit>
+      <trans-unit id="Your device is currently unable to send text messages">
+        <source>Your device is currently unable to send text messages</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre appareil ne peut pas envoyer des messages</target>
+      </trans-unit>
+      <trans-unit id="Your legend">
+        <source>Your legend</source>
+        <note>No comment provided by engineer.</note>
+        <target>VOTRE LÉGENDE</target>
+      </trans-unit>
+      <trans-unit id="Your legend can't be created">
+        <source>Your legend can't be created</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre légende ne peut pas être créée</target>
+      </trans-unit>
+      <trans-unit id="Your legend ended!">
+        <source>Your legend ended!</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre légende a pris fin!</target>
+      </trans-unit>
+      <trans-unit id="Your phone is already confirmed">
+        <source>Your phone is already confirmed</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your phone should begin with %@. It's a phone code for %@. \n\nIf it's not your country, please, tap on according field and change it">
+        <source>Your phone should begin with %1$@. It's a phone code for %2$@. 
+
+If it's not your country, please, tap on according field and change it</source>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Your post can't be created">
+        <source>Your post can't be created</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre publication ne peut pas être créée</target>
+      </trans-unit>
+      <trans-unit id="Your username is too short.">
+        <source>Your username is too short.</source>
+        <note>No comment provided by engineer.</note>
+        <target>Votre nom d'utilisateur est trop court.</target>
+      </trans-unit>
+      <trans-unit id="heyya does not have access to your camera. To enable access, tap Settings and turn on Camera">
+        <source>heyya does not have access to your camera. To enable access, tap Settings and turn on Camera</source>
+        <note>No comment provided by engineer.</note>
+        <target>heyya n'a pas accès à votre appareil photo. Pour autoriser l'accès, allez dans Réglage et activez l'accès</target>
+      </trans-unit>
+      <trans-unit id="heyya does not have access to your contacts. To enable access, tap Settings and turn on Contacts">
+        <source>heyya does not have access to your contacts. To enable access, tap Settings and turn on Contacts</source>
+        <note>No comment provided by engineer.</note>
+        <target>heyya n'a pas accès à votre carnet d'adresse. Pour autoriser l'accès, allez dans Réglages et activez l'accès</target>
+      </trans-unit>
+      <trans-unit id="heyya does not have access to your microphone. To enable access, tap Settings and turn on Microphone">
+        <source>heyya does not have access to your microphone. To enable access, tap Settings and turn on Microphone</source>
+        <note>No comment provided by engineer.</note>
+        <target>heyya n'a pas accès à votre microphone. Pour autoriser l'accès, allez dans Réglages et activez l'accès</target>
+      </trans-unit>
+      <trans-unit id="iMessage error">
+        <source>iMessage error</source>
+        <note>No comment provided by engineer.</note>
+        <target>erreur iMessage</target>
+      </trans-unit>
+      <trans-unit id="no name">
+        <source>no name</source>
+        <note>No comment provided by engineer.</note>
+        <target>pas de nom</target>
+      </trans-unit>
+      <trans-unit id="send">
+        <source>send</source>
+        <note>No comment provided by engineer.</note>
+        <target>envoyer</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
